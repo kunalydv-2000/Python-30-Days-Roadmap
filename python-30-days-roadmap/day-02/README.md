@@ -3,7 +3,6 @@
 [← Previous](../day-01/README.md) | [Main Roadmap](../README.md) | [Next →](../day-03/README.md)
 
 ## Goal
----
 Understand how Python stores values and how to interact with the user through the terminal.
 
 ## Key Concepts
@@ -16,13 +15,11 @@ Understand how Python stores values and how to interact with the user through th
 - type()
 
 ## Practice Tasks
----
 - [x] Exercise 1- Store Business Data
 - [x] Exercise 2- Student Information
 - [x] Exercise 3- Sales Calculation
 
 ## Mini Project
----
 - [x] Sales Recipt Generator
 
 ## Suggested Commit Message
