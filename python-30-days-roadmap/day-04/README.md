@@ -18,7 +18,7 @@ Repeat work efficiently with `for` and `while` loops.
 - [x] Create a password retry loop
 
 ## Day-04 Mini Project
-- [x] []()
+- [x] [ATM Simulation](python-30-days-roadmap/day-04/day-04 Mini Project.ipynb)
 
 ## Suggested Commit Message
 `day 04: loops and repetition`
