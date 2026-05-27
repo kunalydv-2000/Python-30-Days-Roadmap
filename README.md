@@ -33,8 +33,6 @@ python-30-days-roadmap/
         └── README.md
 ```
 
----
-
 ## How To Use
 
 1. Complete one day at a time
