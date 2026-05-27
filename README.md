@@ -1,3 +1,11 @@
+<div align="center">
+  <!--Banner-->
+  <img src="https://github.com/kunalydv-2000/30-Days-python-challenge/blob/main/zoro/3.gif" 
+       height="180" 
+       width="400" 
+       alt="kunalydv-2000 Python">
+</div>
+
 # 30 Days of Python Roadmap
 
 A practical, GitHub-friendly **30-day Python learning roadmap** designed for beginners who want structure, daily momentum, and a small but real portfolio outcome at the end.
@@ -169,12 +177,15 @@ python -m pip install -U pytest
 
 ---
 
-## Completion Outcome
+## 📊 GitHub Stats
 
-When you finish this roadmap, your GitHub repository should clearly show:
-- 30 days of consistent learning
-- documented progress
-- practical Python exercises
-- one completed beginner-friendly CLI project
+<p align="center">
+  <img height="160" src="https://github-readmeapp.vercel.app/api?username=kunalydv-2000&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
+  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=kunalydv-2000&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+</p>
 
-That combination is enough to demonstrate discipline, growth, and hands-on Python practice.
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kunalydv-2000&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
+</p>
