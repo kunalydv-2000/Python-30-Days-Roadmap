@@ -6,8 +6,8 @@
        alt="kunalydv-2000 Python">
 </div>
 
-# 30 Days of __Python__ Roadmap
-
+# 30 Days of Python Roadmap
+---
 A practical, GitHub-friendly **30-day Python learning roadmap** designed for beginners who want structure, daily momentum, and a small but real portfolio outcome at the end.
 
 By the end of this roadmap, you will:
