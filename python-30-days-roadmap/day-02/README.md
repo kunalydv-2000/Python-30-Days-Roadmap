@@ -20,7 +20,7 @@ Understand how Python stores values and how to interact with the user through th
 - [x] Exercise 3- Sales Calculation
 
 ## Mini Project
-- [x] Sales Recipt Generator
+- [x] [Sales The receipt Genaraor](https://github.com/kunalydv-2000/Python-30-Days-Roadmap/blob/main/python-30-days-roadmap/day-02/day-02%20Mini%20Project.ipynb)
 
 ## Suggested Commit Message
 
