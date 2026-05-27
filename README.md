@@ -27,56 +27,28 @@ python-30-days-roadmap/
 
 ---
 
-## Who This Is For
+## How To Use
 
-This roadmap is for you if you:
-- are new to Python
-- want a daily plan instead of random tutorials
-- learn best by doing small exercises every day
-- want a mini project you can showcase on GitHub
-
----
-
-## How To Use This Roadmap
-
-1. Create a GitHub repository.
-2. Copy this folder structure into the repo.
-3. Complete one day at a time.
-4. Commit your notes, exercises, and code every day.
-5. Update progress checkboxes as you finish each day.
-6. Push your final mini project with screenshots or terminal examples.
+1. Complete one day at a time
+2. Push code and notes daily
+3. Commit progress regularly
+4. Update the checklist
+5. Build and publish the final project
 
 ---
 
-## Recommended Daily Routine
+## Weekly Focus
 
-- **15 min** review previous concepts
-- **30-45 min** learn new material
-- **30-60 min** code exercises
-- **10 min** write notes in the day's README
-- **5 min** commit changes to GitHub
-
----
-
-## Weekly Milestones
-
-### Week 1 — Python Foundations
-Focus on syntax, variables, conditionals, loops, strings, and core collections.
-
-### Week 2 — Functions, Files, and Structure
-Learn functions, modules, errors, files, comprehensions, and object-oriented basics.
-
-### Week 3 — Tooling and Intermediate Python
-Use virtual environments, pip, testing with pytest, generators, standard library tools, and JSON/APIs.
-
-### Week 4 — Mini Project Build
-Plan, build, test, refactor, document, and publish a **Task Tracker CLI**.
+- Week 1 → Python fundamentals
+- Week 2 → Functions, files, OOP
+- Week 3 → Tooling, testing, APIs
+- Week 4 → Build Task Tracker CLI
 
 ---
 
 ## 30-Day Progress Tracker
 
-- [ ] Day 01 — Setup, Python install, first script
+- [x] Day 01 — Setup, Python install, first script
 - [ ] Day 02 — Variables, data types, input/output
 - [ ] Day 03 — Operators and conditionals
 - [ ] Day 04 — Loops and iteration
@@ -149,14 +121,12 @@ mini-project/task-tracker-cli/
 
 ---
 
-## GitHub Documentation Tips
+## GitHub Tips
 
-To keep this repository strong for recruiters and future-you:
-- write what you learned each day
-- include code snippets and command examples
-- link related files with relative Markdown links
-- use task lists to track progress
-- keep commits small and meaningful
+- Commit daily
+- Document what you learned
+- Keep README files clean
+- Use meaningful commit messages
 
 Example commit messages:
 - `day 05: practiced string slicing and formatting`
@@ -190,22 +160,10 @@ python -m pip install -U pytest
 
 ---
 
-## Suggested Rules for Yourself
-
-- code every day, even if only for 20 minutes
-- never skip documentation
-- write at least one example per topic
-- review weekly before moving ahead
-- prefer small working programs over long passive study sessions
-
----
-
 ## Official References
 
 - Python Tutorial: https://docs.python.org/3/tutorial/index.html
 - Python Standard Library: https://docs.python.org/3/library/
-- Virtual Environments: https://docs.python.org/3/tutorial/venv.html
-- pip + virtual environments guide: https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
 - pytest getting started: https://docs.pytest.org/en/stable/getting-started.html
 - GitHub Markdown basics: https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
