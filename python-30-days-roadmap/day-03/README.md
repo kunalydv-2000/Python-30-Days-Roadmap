@@ -17,7 +17,7 @@ Make decisions in code using comparison and logical operators.
 - [x] Task 3- Login System
 
 ## Mini Project
-- [x] []()
+- [x] [Student Grade Calculator](https://github.com/kunalydv-2000/Python-30-Days-Roadmap/blob/main/python-30-days-roadmap/day-03/day-03%20Mini%20Project.ipynb)
 
 ## Suggested Commit Message
 `day 03: operators and conditional logic`
